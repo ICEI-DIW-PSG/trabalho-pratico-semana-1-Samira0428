@@ -4,16 +4,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Samira Vitoria da Silva Fraga
+Matricula: 1629044
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Insepção no navegador](images/insepcao_rede_site.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![Projeto replit](images/projeto_simples.png)
 
 
 ## Orientações sobre Linguagem MarkDown
