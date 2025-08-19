@@ -13,7 +13,7 @@ Matricula: 1629044
 
 ## Tela de projeto no Replit
 
-![Projeto replit](images/projeto_simples.png)
+![Projeto replit](images/project_simples.png)
 
 
 ## Orientações sobre Linguagem MarkDown
