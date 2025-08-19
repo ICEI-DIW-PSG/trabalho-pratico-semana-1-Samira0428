@@ -9,7 +9,7 @@ Matricula: 1629044
 
 ## Tela de inspeção com navegador
 
-![Insepção no navegador](images/insepcao_rede_site.png)
+![Insepção no navegador](images/insepcao_site.png)
 
 ## Tela de projeto no Replit
 
